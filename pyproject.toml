@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shiren"
+version = "0.1.0"
+description = "Eval harness for autonomous agent teams running on local models"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Jesse Weigel", email = "jesseweigel@gmail.com" }]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/JesseRWeigel/shiren"
+
+[project.scripts]
+shiren = "shiren.cli:main"
+
+[tool.setuptools]
+packages = ["shiren"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]

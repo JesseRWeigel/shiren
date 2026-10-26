@@ -1,0 +1,94 @@
+timestamp	cycle	task	agent	score	status	description
+2026-03-12T17:24:36.784199	130	repo-contribution	coder	0.0	discard	QA rejected (attempt 2): UNKNOWN
+2026-03-12T17:24:36.789109	130	repo-contribution	researcher	0.0	discard	research phase for repo-contribution
+2026-03-12T23:52:27.946404	133	write-skill	coder	2.5	discard	QA rejected (attempt 2): PASS
+2026-03-12T23:52:27.948334	133	write-skill	researcher	2.5	discard	research phase for write-skill
+2026-03-13T01:15:09.473125	133	write-skill	coder	4.0	discard	QA rejected (attempt 1): FAIL
+2026-03-13T01:17:12.231510	133	write-skill	coder	8.7	keep	QA approved after retry 1: FAIL
+2026-03-13T01:17:12.234098	133	write-skill	researcher	8.7	keep	research phase for write-skill
+2026-03-13T02:02:11.444388	135	code-review	coder	0.0	discard	QA rejected (attempt 2): UNKNOWN
+2026-03-13T02:02:11.445284	135	code-review	researcher	0.0	discard	research phase for code-review
+2026-03-13T04:12:38.801155	134	improve-docs	coder	6.0	keep	QA approved: FAIL
+2026-03-13T04:12:38.802348	134	improve-docs	researcher	6.0	keep	research phase for improve-docs
+2026-03-13T04:15:13.570450	135	code-review	coder	7.0	keep	QA approved: FAIL
+2026-03-13T04:15:13.572680	135	code-review	researcher	7.0	keep	research phase for code-review
+2026-03-13T04:17:42.491059	136	write-test	coder	7.8	keep	QA approved: FAIL
+2026-03-13T04:17:42.492223	136	write-test	researcher	7.8	keep	research phase for write-test
+2026-03-13T04:20:25.219356	137	summarize-progress	coder	7.6	keep	QA approved: FAIL
+2026-03-13T04:20:25.220774	137	summarize-progress	researcher	7.6	keep	research phase for summarize-progress
+2026-03-13T04:24:28.750973	138	write-utility	coder	7.8	keep	QA approved: FAIL
+2026-03-13T04:24:28.752252	138	write-utility	researcher	7.8	keep	research phase for write-utility
+2026-03-13T04:41:51.248436	139	write-skill	coder	7.2	keep	QA approved: FAIL
+2026-03-13T04:41:51.249372	139	write-skill	researcher	7.2	keep	research phase for write-skill
+2026-03-13T04:54:17.761383	140	improve-docs	coder	7.5	keep	QA approved: FAIL
+2026-03-13T04:54:17.762803	140	improve-docs	researcher	7.5	keep	research phase for improve-docs
+2026-03-13T05:11:37.617292	141	code-review	coder	7.6	keep	QA approved: FAIL
+2026-03-13T05:11:37.619399	141	code-review	researcher	7.6	keep	research phase for code-review
+2026-03-13T05:29:54.835420	142	write-test	coder	8.2	keep	QA approved: FAIL
+2026-03-13T05:29:54.836398	142	write-test	researcher	8.2	keep	research phase for write-test
+2026-03-13T05:39:55.238738	143	summarize-progress	coder	6.4	keep	QA approved: FAIL
+2026-03-13T05:39:55.240145	143	summarize-progress	researcher	6.4	keep	research phase for summarize-progress
+2026-03-13T05:49:59.916256	144	write-utility	coder	7.8	keep	QA approved: FAIL
+2026-03-13T05:49:59.917710	144	write-utility	researcher	7.8	keep	research phase for write-utility
+2026-03-13T05:57:54.414250	145	write-skill	coder	6.6	keep	QA approved: FAIL
+2026-03-13T05:57:54.415231	145	write-skill	researcher	6.6	keep	research phase for write-skill
+2026-03-13T06:04:52.722568	146	improve-docs	coder	6.2	keep	QA approved: FAIL
+2026-03-13T06:04:52.723826	146	improve-docs	researcher	6.2	keep	research phase for improve-docs
+2026-03-13T06:09:37.095574	147	code-review	coder	7.8	keep	QA approved: FAIL
+2026-03-13T06:09:37.096880	147	code-review	researcher	7.8	keep	research phase for code-review
+2026-03-13T06:13:49.925650	148	write-test	coder	8.0	keep	QA approved: UNKNOWN
+2026-03-13T06:13:49.926929	148	write-test	researcher	8.0	keep	research phase for write-test
+2026-03-13T06:18:32.152212	149	summarize-progress	coder	7.8	keep	QA approved: UNKNOWN
+2026-03-13T06:18:32.153393	149	summarize-progress	researcher	7.8	keep	research phase for summarize-progress
+2026-03-13T06:26:49.116084	150	write-utility	coder	7.6	keep	QA approved: UNKNOWN
+2026-03-13T06:26:49.117005	150	write-utility	researcher	7.6	keep	research phase for write-utility
+2026-03-13T06:36:50.286178	151	write-skill	coder	7.8	keep	QA approved: FAIL
+2026-03-13T06:36:50.287383	151	write-skill	researcher	7.8	keep	research phase for write-skill
+2026-03-13T06:42:34.669483	152	improve-docs	coder	6.3	keep	QA approved: UNKNOWN
+2026-03-13T06:42:34.670656	152	improve-docs	researcher	6.3	keep	research phase for improve-docs
+2026-03-13T06:48:00.362393	153	code-review	coder	8.2	keep	QA approved: PASS
+2026-03-13T06:48:00.363568	153	code-review	researcher	8.2	keep	research phase for code-review
+2026-03-13T07:01:42.004997	154	write-test	coder	7.8	keep	QA approved: FAIL
+2026-03-13T07:01:42.006831	154	write-test	researcher	7.8	keep	research phase for write-test
+2026-03-13T07:11:44.298815	155	summarize-progress	coder	6.2	keep	QA approved: FAIL
+2026-03-13T07:11:44.299911	155	summarize-progress	researcher	6.2	keep	research phase for summarize-progress
+2026-03-13T07:41:56.563098	157	write-skill	coder	5.8	discard	QA rejected (attempt 1): FAIL
+2026-03-13T07:43:06.729828	157	write-skill	coder	7.9	keep	QA approved after retry 1: FAIL
+2026-03-13T07:43:06.730991	157	write-skill	researcher	7.9	keep	research phase for write-skill
+2026-03-13T08:02:17.699265	158	improve-docs	coder	6.1	keep	QA approved: FAIL
+2026-03-13T08:02:17.700528	158	improve-docs	researcher	6.1	keep	research phase for improve-docs
+2026-03-13T08:11:03.907193	159	code-review	coder	8.1	keep	QA approved: PASS
+2026-03-13T08:11:03.908774	159	code-review	researcher	8.1	keep	research phase for code-review
+2026-03-13T08:17:48.026563	160	write-test	coder	7.0	keep	QA approved: FAIL
+2026-03-13T08:17:48.027577	160	write-test	researcher	7.0	keep	research phase for write-test
+2026-03-13T08:27:59.180853	161	summarize-progress	coder	6.2	keep	QA approved: PASS
+2026-03-13T08:27:59.181838	161	summarize-progress	researcher	6.2	keep	research phase for summarize-progress
+2026-03-13T08:48:35.181265	163	write-skill	coder	3.0	discard	QA rejected (attempt 1): FAIL
+2026-03-13T08:49:20.728098	163	write-skill	coder	8.0	keep	QA approved after retry 1: FAIL
+2026-03-13T08:49:20.729426	163	write-skill	researcher	8.0	keep	research phase for write-skill
+2026-03-13T08:56:45.019980	164	improve-docs	coder	7.5	keep	QA approved: FAIL
+2026-03-13T08:56:45.020888	164	improve-docs	researcher	7.5	keep	research phase for improve-docs
+2026-03-13T09:08:05.168628	165	code-review	coder	8.1	keep	QA approved: FAIL
+2026-03-13T09:08:05.170210	165	code-review	researcher	8.1	keep	research phase for code-review
+2026-03-13T09:14:54.967358	166	write-test	coder	7.8	keep	QA approved: FAIL
+2026-03-13T09:14:54.968418	166	write-test	researcher	7.8	keep	research phase for write-test
+2026-03-13T09:21:48.621570	167	summarize-progress	coder	8.2	keep	QA approved: PASS
+2026-03-13T09:21:48.622690	167	summarize-progress	researcher	8.2	keep	research phase for summarize-progress
+2026-03-13T09:45:50.314121	169	write-skill	coder	3.5	discard	QA rejected (attempt 1): FAIL
+2026-03-13T09:46:45.602336	169	write-skill	coder	8.0	keep	QA approved after retry 1: FAIL
+2026-03-13T09:46:45.603777	169	write-skill	researcher	8.0	keep	research phase for write-skill
+2026-03-13T09:54:52.084391	170	improve-docs	coder	7.9	keep	QA approved: PASS
+2026-03-13T09:54:52.085583	170	improve-docs	researcher	7.9	keep	research phase for improve-docs
+2026-03-13T10:02:39.560060	171	code-review	coder	8.0	keep	QA approved: FAIL
+2026-03-13T10:02:39.561061	171	code-review	researcher	8.0	keep	research phase for code-review
+2026-03-13T16:28:57.894604	173	resource-acquisition	coder	0.0	discard	QA rejected (attempt 1): UNKNOWN
+2026-04-10T09:57:14.606185	169	tool-building	qa	0	crash	infrastructure failure in QA
+2026-04-10T09:57:14.606263	169	tool-building	researcher	-1	discard	research phase for tool-building
+2026-04-10T10:03:42.608864	170	capability-assessment	coder	7.2	keep	QA approved: UNKNOWN
+2026-04-10T10:03:42.609789	170	capability-assessment	researcher	7.2	keep	research phase for capability-assessment
+2026-04-10T10:13:03.107307	171	frontier-scan	coder	7.6	keep	QA approved: UNKNOWN
+2026-04-10T10:13:03.108685	171	frontier-scan	researcher	7.6	keep	research phase for frontier-scan
+2026-04-10T10:18:17.104124	172	repo-contribution	coder	7.3	keep	QA approved: FAIL
+2026-04-10T10:18:17.105372	172	repo-contribution	researcher	7.3	keep	research phase for repo-contribution
+2026-05-23T18:09:04.333335	173	job-hunt-digest	qa	0	crash	infrastructure failure in QA
+2026-05-23T18:09:04.333377	173	job-hunt-digest	researcher	-1	discard	research phase for job-hunt-digest
